@@ -1,2 +1,2 @@
 # SimplificaCI
-## Release Files
+## Plataforma para Gestão de Comunicação Interna
